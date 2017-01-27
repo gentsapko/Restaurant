@@ -25,6 +25,8 @@ namespace Restaurant
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
                       "~/Content/bootstrap.css",
+                      "~/Content/main.css",
+                      "~/Content/normalize.css",
                       "~/Content/site.css"));
         }
     }

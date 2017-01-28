@@ -7,10 +7,29 @@
     @Styles.Render("~/Content/css")
 </head>
 <body>
-    <div>
-        @RenderBody()
-        @RenderSection("scripts", required: false)
-    </div>
+    <div class="container">
+        <header>
+            <a href="index.html" class="logo"><img src="images/logo.png" alt="Blue Leopard logo"></a>
+            <nav class="main-navigation">
+                <ul>
+                    <li><a> @Html.ActionLink("Home", "Index", "Home")</a></li>
+                    <li><a> @Html.ActionLink("Menu", "Menu", "Home")</a></li>
+                    <li><a> @Html.ActionLink("Location", "Location", "Home")</a></li>
+                </ul>
+            </nav>
+        </header>
+       
+
+            @RenderBody()
+            @RenderSection("scripts", required: false)
+        </div>
+
+    <footer>
+        <h4>Contact Us</h4>
+
+        <p>1.555.678.9876</p>
+        <p>contact@theblueleopa.rd</p>
+    </footer>
 
 </body>
 </html>

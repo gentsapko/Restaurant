@@ -15,14 +15,14 @@ namespace Restaurant.Controllers
 
         public ActionResult Menu()
         {
-            ViewBag.Message = "Your application description page.";
+           // ViewBag.Message = "Your application description page.";
 
             return View();
         }
 
         public ActionResult Location()
         {
-            ViewBag.Message = "Your contact page.";
+            //ViewBag.Message = "Your contact page.";
 
             return View();
         }

@@ -9,20 +9,25 @@
 <body>
     <div class="container">
         <header>
-            <a href="index.html" class="logo"><img src="images/logo.png" alt="Blue Leopard logo"></a>
+
+            <a href='@Url.Action("Index", "Home")'><img src="images/logo.png" alt="Blue Leopard logo" class="logo" /></a>
+
+          
+
+            <!-- <a href="Index" class="logo"><img src="images/logo.png" alt="Blue Leopard logo"></a>-->
             <nav class="main-navigation">
                 <ul>
-                    <li><a> @Html.ActionLink("Home", "Index", "Home")</a></li>
-                    <li><a> @Html.ActionLink("Menu", "Menu", "Home")</a></li>
-                    <li><a> @Html.ActionLink("Location", "Location", "Home")</a></li>
+                    <li> @Html.ActionLink("Home", "Index", "Home") </li>
+                    <li> @Html.ActionLink("Menu", "Menu", "Home")</li>
+                    <li> @Html.ActionLink("Location &amp; Hours", "Location", "Home")</li>
                 </ul>
             </nav>
         </header>
-       
 
-            @RenderBody()
-            @RenderSection("scripts", required: false)
-        </div>
+
+        @RenderBody()
+        @RenderSection("Scripts", required: false)
+    </div>
 
     <footer>
         <h4>Contact Us</h4>

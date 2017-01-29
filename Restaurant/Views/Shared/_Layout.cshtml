@@ -2,20 +2,16 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8" />
-    <title>@ViewBag.Title</title>
+    <title>@ViewBag.Title The Blue Leopard Pub: Home</title>
     <link type="text/css" rel="stylesheet" href="@Url.Content("~/Content/main.css")" />
     <link type="text/css" rel="stylesheet" href="@Url.Content("~/Content/normalize.css")" />
     <!--Styles.Render("~/Content/css")-->
 </head>
 <body>
+
     <div class="container">
         <header>
-
-            <a href='@Url.Action("Index", "Home")'><img src="images/logo.png" alt="Blue Leopard logo" class="logo"></a>
-
-
-
-            <!-- <a href="Index" class="logo"><img src="images/logo.png" alt="Blue Leopard logo"></a>-->
+            <a href="@Url.Action("Index", "Home")" class="logo"><img src="images/logo.png" alt="Blue Leopard logo"></a>
             <nav class="main-navigation">
                 <ul>
                     <li> @Html.ActionLink("Home", "Index", "Home") </li>
@@ -24,6 +20,7 @@
                 </ul>
             </nav>
         </header>
+
         @RenderBody()
 
         <footer>

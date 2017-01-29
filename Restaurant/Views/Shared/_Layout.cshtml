@@ -3,9 +3,7 @@
 <head>
     <meta charset="UTF-8" />
     <title>@ViewBag.Title The Blue Leopard Pub: Home</title>
-    <link type="text/css" rel="stylesheet" href="@Url.Content("~/Content/main.css")" />
-    <link type="text/css" rel="stylesheet" href="@Url.Content("~/Content/normalize.css")" />
-    <!--Styles.Render("~/Content/css")-->
+    @Styles.Render("~/Content/css")
 </head>
 <body>
 
@@ -16,7 +14,7 @@
                 <ul>
                     <li> @Html.ActionLink("Home", "Index", "Home") </li>
                     <li> @Html.ActionLink("Menu", "Menu", "Home")</li>
-                    <li> @Html.ActionLink("Location &amp; Hours", "Location", "Home")</li>
+                    <li> @Html.ActionLink("Location & Hours", "Location", "Home")</li>
                 </ul>
             </nav>
         </header>

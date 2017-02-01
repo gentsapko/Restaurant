@@ -19,7 +19,7 @@ body {
   background: #0f0f0f;
   background-image: url(../images/background.jpg);
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: auto;
   padding: 2% 6% 6% 6%;
 }
 

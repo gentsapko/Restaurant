@@ -1,0 +1,1137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<report xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.gallio.org/">
+  <testPackage shadowCopy="false" debug="false">
+    <files>
+      <file>D:\temp\20jn3bbl.mgi\output\Antlr3.Runtime.dll</file>
+      <file>D:\temp\20jn3bbl.mgi\output\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</file>
+      <file>D:\temp\20jn3bbl.mgi\output\Microsoft.Web.Infrastructure.dll</file>
+      <file>D:\temp\20jn3bbl.mgi\output\Newtonsoft.Json.dll</file>
+      <file>D:\temp\20jn3bbl.mgi\output\Restaurant.dll</file>
+      <file>D:\temp\20jn3bbl.mgi\output\RestaurantAutomation.dll</file>
+      <file>D:\temp\20jn3bbl.mgi\output\RestaurantTest.dll</file>
+      <file>D:\temp\20jn3bbl.mgi\output\System.Web.Helpers.dll</file>
+      <file>D:\temp\20jn3bbl.mgi\output\System.Web.Mvc.dll</file>
+      <file>D:\temp\20jn3bbl.mgi\output\System.Web.Optimization.dll</file>
+      <file>D:\temp\20jn3bbl.mgi\output\System.Web.Razor.dll</file>
+      <file>D:\temp\20jn3bbl.mgi\output\System.Web.WebPages.Deployment.dll</file>
+      <file>D:\temp\20jn3bbl.mgi\output\System.Web.WebPages.dll</file>
+      <file>D:\temp\20jn3bbl.mgi\output\System.Web.WebPages.Razor.dll</file>
+      <file>D:\temp\20jn3bbl.mgi\output\WebDriver.dll</file>
+      <file>D:\temp\20jn3bbl.mgi\output\WebDriver.Support.dll</file>
+      <file>D:\temp\20jn3bbl.mgi\output\WebGrease.dll</file>
+    </files>
+    <hintDirectories />
+    <excludedFrameworkIds />
+    <properties />
+  </testPackage>
+  <testModel>
+    <test id="c2722843734a7a54" name="Root" fullName="" isTestCase="false">
+      <codeReference />
+      <codeLocation />
+      <metadata>
+        <entry key="TestKind">
+          <value>Root</value>
+        </entry>
+      </metadata>
+      <children>
+        <test id="f310079f7eda4376" name="Antlr3.Runtime.dll" fullName="Antlr3.Runtime.dll" isTestCase="false">
+          <codeReference />
+          <codeLocation />
+          <metadata>
+            <entry key="TestKind">
+              <value>Unsupported</value>
+            </entry>
+            <entry key="IgnoreReason">
+              <value>This test is not supported by any available test framework.</value>
+            </entry>
+            <entry key="File">
+              <value>D:\temp\20jn3bbl.mgi\output\Antlr3.Runtime.dll</value>
+            </entry>
+          </metadata>
+          <children />
+          <parameters />
+        </test>
+        <test id="31f5879070c58943" name="Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll" fullName="Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll" isTestCase="false">
+          <codeReference />
+          <codeLocation />
+          <metadata>
+            <entry key="TestKind">
+              <value>Unsupported</value>
+            </entry>
+            <entry key="IgnoreReason">
+              <value>This test is not supported by any available test framework.</value>
+            </entry>
+            <entry key="File">
+              <value>D:\temp\20jn3bbl.mgi\output\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</value>
+            </entry>
+          </metadata>
+          <children />
+          <parameters />
+        </test>
+        <test id="6662385e098fece1" name="Microsoft.Web.Infrastructure.dll" fullName="Microsoft.Web.Infrastructure.dll" isTestCase="false">
+          <codeReference />
+          <codeLocation />
+          <metadata>
+            <entry key="TestKind">
+              <value>Unsupported</value>
+            </entry>
+            <entry key="IgnoreReason">
+              <value>This test is not supported by any available test framework.</value>
+            </entry>
+            <entry key="File">
+              <value>D:\temp\20jn3bbl.mgi\output\Microsoft.Web.Infrastructure.dll</value>
+            </entry>
+          </metadata>
+          <children />
+          <parameters />
+        </test>
+        <test id="8a1ff2d9901beab8" name="Newtonsoft.Json.dll" fullName="Newtonsoft.Json.dll" isTestCase="false">
+          <codeReference />
+          <codeLocation />
+          <metadata>
+            <entry key="TestKind">
+              <value>Unsupported</value>
+            </entry>
+            <entry key="IgnoreReason">
+              <value>This test is not supported by any available test framework.</value>
+            </entry>
+            <entry key="File">
+              <value>D:\temp\20jn3bbl.mgi\output\Newtonsoft.Json.dll</value>
+            </entry>
+          </metadata>
+          <children />
+          <parameters />
+        </test>
+        <test id="f2f979c208fb05a4" name="Restaurant.dll" fullName="Restaurant.dll" isTestCase="false">
+          <codeReference />
+          <codeLocation />
+          <metadata>
+            <entry key="TestKind">
+              <value>Unsupported</value>
+            </entry>
+            <entry key="IgnoreReason">
+              <value>This test is not supported by any available test framework.</value>
+            </entry>
+            <entry key="File">
+              <value>D:\temp\20jn3bbl.mgi\output\Restaurant.dll</value>
+            </entry>
+          </metadata>
+          <children />
+          <parameters />
+        </test>
+        <test id="734d5bd7b4d0b326" name="RestaurantAutomation.dll" fullName="RestaurantAutomation.dll" isTestCase="false">
+          <codeReference />
+          <codeLocation />
+          <metadata>
+            <entry key="TestKind">
+              <value>Unsupported</value>
+            </entry>
+            <entry key="IgnoreReason">
+              <value>This test is not supported by any available test framework.</value>
+            </entry>
+            <entry key="File">
+              <value>D:\temp\20jn3bbl.mgi\output\RestaurantAutomation.dll</value>
+            </entry>
+          </metadata>
+          <children />
+          <parameters />
+        </test>
+        <test id="1ce8e975ea21b66c" name="System.Web.Helpers.dll" fullName="System.Web.Helpers.dll" isTestCase="false">
+          <codeReference />
+          <codeLocation />
+          <metadata>
+            <entry key="TestKind">
+              <value>Unsupported</value>
+            </entry>
+            <entry key="IgnoreReason">
+              <value>This test is not supported by any available test framework.</value>
+            </entry>
+            <entry key="File">
+              <value>D:\temp\20jn3bbl.mgi\output\System.Web.Helpers.dll</value>
+            </entry>
+          </metadata>
+          <children />
+          <parameters />
+        </test>
+        <test id="4e8184417eecfec5" name="System.Web.Mvc.dll" fullName="System.Web.Mvc.dll" isTestCase="false">
+          <codeReference />
+          <codeLocation />
+          <metadata>
+            <entry key="TestKind">
+              <value>Unsupported</value>
+            </entry>
+            <entry key="IgnoreReason">
+              <value>This test is not supported by any available test framework.</value>
+            </entry>
+            <entry key="File">
+              <value>D:\temp\20jn3bbl.mgi\output\System.Web.Mvc.dll</value>
+            </entry>
+          </metadata>
+          <children />
+          <parameters />
+        </test>
+        <test id="78756b16a48f820" name="System.Web.Optimization.dll" fullName="System.Web.Optimization.dll" isTestCase="false">
+          <codeReference />
+          <codeLocation />
+          <metadata>
+            <entry key="TestKind">
+              <value>Unsupported</value>
+            </entry>
+            <entry key="IgnoreReason">
+              <value>This test is not supported by any available test framework.</value>
+            </entry>
+            <entry key="File">
+              <value>D:\temp\20jn3bbl.mgi\output\System.Web.Optimization.dll</value>
+            </entry>
+          </metadata>
+          <children />
+          <parameters />
+        </test>
+        <test id="fc4a40208c63dc13" name="System.Web.Razor.dll" fullName="System.Web.Razor.dll" isTestCase="false">
+          <codeReference />
+          <codeLocation />
+          <metadata>
+            <entry key="TestKind">
+              <value>Unsupported</value>
+            </entry>
+            <entry key="IgnoreReason">
+              <value>This test is not supported by any available test framework.</value>
+            </entry>
+            <entry key="File">
+              <value>D:\temp\20jn3bbl.mgi\output\System.Web.Razor.dll</value>
+            </entry>
+          </metadata>
+          <children />
+          <parameters />
+        </test>
+        <test id="a8e7fb77410f3fd8" name="System.Web.WebPages.Deployment.dll" fullName="System.Web.WebPages.Deployment.dll" isTestCase="false">
+          <codeReference />
+          <codeLocation />
+          <metadata>
+            <entry key="TestKind">
+              <value>Unsupported</value>
+            </entry>
+            <entry key="IgnoreReason">
+              <value>This test is not supported by any available test framework.</value>
+            </entry>
+            <entry key="File">
+              <value>D:\temp\20jn3bbl.mgi\output\System.Web.WebPages.Deployment.dll</value>
+            </entry>
+          </metadata>
+          <children />
+          <parameters />
+        </test>
+        <test id="9f1357b20eb57e97" name="System.Web.WebPages.dll" fullName="System.Web.WebPages.dll" isTestCase="false">
+          <codeReference />
+          <codeLocation />
+          <metadata>
+            <entry key="TestKind">
+              <value>Unsupported</value>
+            </entry>
+            <entry key="IgnoreReason">
+              <value>This test is not supported by any available test framework.</value>
+            </entry>
+            <entry key="File">
+              <value>D:\temp\20jn3bbl.mgi\output\System.Web.WebPages.dll</value>
+            </entry>
+          </metadata>
+          <children />
+          <parameters />
+        </test>
+        <test id="f5e70da6057cf397" name="System.Web.WebPages.Razor.dll" fullName="System.Web.WebPages.Razor.dll" isTestCase="false">
+          <codeReference />
+          <codeLocation />
+          <metadata>
+            <entry key="TestKind">
+              <value>Unsupported</value>
+            </entry>
+            <entry key="IgnoreReason">
+              <value>This test is not supported by any available test framework.</value>
+            </entry>
+            <entry key="File">
+              <value>D:\temp\20jn3bbl.mgi\output\System.Web.WebPages.Razor.dll</value>
+            </entry>
+          </metadata>
+          <children />
+          <parameters />
+        </test>
+        <test id="3b30b197aa59053c" name="WebDriver.dll" fullName="WebDriver.dll" isTestCase="false">
+          <codeReference />
+          <codeLocation />
+          <metadata>
+            <entry key="TestKind">
+              <value>Unsupported</value>
+            </entry>
+            <entry key="IgnoreReason">
+              <value>This test is not supported by any available test framework.</value>
+            </entry>
+            <entry key="File">
+              <value>D:\temp\20jn3bbl.mgi\output\WebDriver.dll</value>
+            </entry>
+          </metadata>
+          <children />
+          <parameters />
+        </test>
+        <test id="89b4f7fbbbc1f1f9" name="WebDriver.Support.dll" fullName="WebDriver.Support.dll" isTestCase="false">
+          <codeReference />
+          <codeLocation />
+          <metadata>
+            <entry key="TestKind">
+              <value>Unsupported</value>
+            </entry>
+            <entry key="IgnoreReason">
+              <value>This test is not supported by any available test framework.</value>
+            </entry>
+            <entry key="File">
+              <value>D:\temp\20jn3bbl.mgi\output\WebDriver.Support.dll</value>
+            </entry>
+          </metadata>
+          <children />
+          <parameters />
+        </test>
+        <test id="25e7087aa2ac2484" name="WebGrease.dll" fullName="WebGrease.dll" isTestCase="false">
+          <codeReference />
+          <codeLocation />
+          <metadata>
+            <entry key="TestKind">
+              <value>Unsupported</value>
+            </entry>
+            <entry key="IgnoreReason">
+              <value>This test is not supported by any available test framework.</value>
+            </entry>
+            <entry key="File">
+              <value>D:\temp\20jn3bbl.mgi\output\WebGrease.dll</value>
+            </entry>
+          </metadata>
+          <children />
+          <parameters />
+        </test>
+        <test id="b1afefcc3fae1575" name="RestaurantTest" fullName="RestaurantTest" isTestCase="false">
+          <codeReference assembly="RestaurantTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" />
+          <codeLocation path="D:\temp\20jn3bbl.mgi\output\RestaurantTest.DLL" />
+          <metadata>
+            <entry key="TestKind">
+              <value>Assembly</value>
+            </entry>
+            <entry key="CodeBase">
+              <value>D:\temp\20jn3bbl.mgi\output\RestaurantTest.DLL</value>
+            </entry>
+            <entry key="Copyright">
+              <value>Copyright ©  2017</value>
+            </entry>
+            <entry key="FileVersion">
+              <value>1.0.0.0</value>
+            </entry>
+            <entry key="Product">
+              <value>RestaurantTest</value>
+            </entry>
+            <entry key="Title">
+              <value>RestaurantTest</value>
+            </entry>
+            <entry key="Version">
+              <value>1.0.0.0</value>
+            </entry>
+            <entry key="Framework">
+              <value>MSTest v10.0.0.0</value>
+            </entry>
+            <entry key="File">
+              <value>D:\temp\20jn3bbl.mgi\output\RestaurantTest.DLL</value>
+            </entry>
+          </metadata>
+          <children>
+            <test id="b472a5bd0d1e84ef" name="UnitTest1" fullName="RestaurantTest/UnitTest1" isTestCase="false">
+              <codeReference assembly="RestaurantTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" namespace="RestaurantTest" type="RestaurantTest.UnitTest1" />
+              <codeLocation path="d:\temp\20jn3bbl.mgi\input\RestaurantTest\UnitTest1.cs" />
+              <metadata>
+                <entry key="TestKind">
+                  <value>Fixture</value>
+                </entry>
+              </metadata>
+              <children>
+                <test id="ea25b92cad9174cd" name="TestMethod1" fullName="RestaurantTest/UnitTest1/TestMethod1" isTestCase="true">
+                  <codeReference assembly="RestaurantTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" namespace="RestaurantTest" type="RestaurantTest.UnitTest1" member="TestMethod1" />
+                  <codeLocation path="d:\temp\20jn3bbl.mgi\input\RestaurantTest\UnitTest1.cs" line="13" />
+                  <metadata>
+                    <entry key="TestKind">
+                      <value>Test</value>
+                    </entry>
+                  </metadata>
+                  <children />
+                  <parameters />
+                </test>
+              </children>
+              <parameters />
+            </test>
+          </children>
+          <parameters />
+        </test>
+      </children>
+      <parameters />
+    </test>
+    <annotations>
+      <annotation type="warning" message="File 'Antlr3.Runtime.dll' is not supported by any installed test framework.  It will be ignored.">
+        <codeLocation path="D:\temp\20jn3bbl.mgi\output\Antlr3.Runtime.dll" />
+        <codeReference />
+      </annotation>
+      <annotation type="warning" message="File 'Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll' is not supported by any installed test framework.  It will be ignored.">
+        <codeLocation path="D:\temp\20jn3bbl.mgi\output\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll" />
+        <codeReference />
+      </annotation>
+      <annotation type="warning" message="File 'Microsoft.Web.Infrastructure.dll' is not supported by any installed test framework.  It will be ignored.">
+        <codeLocation path="D:\temp\20jn3bbl.mgi\output\Microsoft.Web.Infrastructure.dll" />
+        <codeReference />
+      </annotation>
+      <annotation type="warning" message="File 'Newtonsoft.Json.dll' is not supported by any installed test framework.  It will be ignored.">
+        <codeLocation path="D:\temp\20jn3bbl.mgi\output\Newtonsoft.Json.dll" />
+        <codeReference />
+      </annotation>
+      <annotation type="warning" message="File 'Restaurant.dll' is not supported by any installed test framework.  It will be ignored.">
+        <codeLocation path="D:\temp\20jn3bbl.mgi\output\Restaurant.dll" />
+        <codeReference />
+      </annotation>
+      <annotation type="warning" message="File 'RestaurantAutomation.dll' is not supported by any installed test framework.  It will be ignored.">
+        <codeLocation path="D:\temp\20jn3bbl.mgi\output\RestaurantAutomation.dll" />
+        <codeReference />
+      </annotation>
+      <annotation type="warning" message="File 'System.Web.Helpers.dll' is not supported by any installed test framework.  It will be ignored.">
+        <codeLocation path="D:\temp\20jn3bbl.mgi\output\System.Web.Helpers.dll" />
+        <codeReference />
+      </annotation>
+      <annotation type="warning" message="File 'System.Web.Mvc.dll' is not supported by any installed test framework.  It will be ignored.">
+        <codeLocation path="D:\temp\20jn3bbl.mgi\output\System.Web.Mvc.dll" />
+        <codeReference />
+      </annotation>
+      <annotation type="warning" message="File 'System.Web.Optimization.dll' is not supported by any installed test framework.  It will be ignored.">
+        <codeLocation path="D:\temp\20jn3bbl.mgi\output\System.Web.Optimization.dll" />
+        <codeReference />
+      </annotation>
+      <annotation type="warning" message="File 'System.Web.Razor.dll' is not supported by any installed test framework.  It will be ignored.">
+        <codeLocation path="D:\temp\20jn3bbl.mgi\output\System.Web.Razor.dll" />
+        <codeReference />
+      </annotation>
+      <annotation type="warning" message="File 'System.Web.WebPages.Deployment.dll' is not supported by any installed test framework.  It will be ignored.">
+        <codeLocation path="D:\temp\20jn3bbl.mgi\output\System.Web.WebPages.Deployment.dll" />
+        <codeReference />
+      </annotation>
+      <annotation type="warning" message="File 'System.Web.WebPages.dll' is not supported by any installed test framework.  It will be ignored.">
+        <codeLocation path="D:\temp\20jn3bbl.mgi\output\System.Web.WebPages.dll" />
+        <codeReference />
+      </annotation>
+      <annotation type="warning" message="File 'System.Web.WebPages.Razor.dll' is not supported by any installed test framework.  It will be ignored.">
+        <codeLocation path="D:\temp\20jn3bbl.mgi\output\System.Web.WebPages.Razor.dll" />
+        <codeReference />
+      </annotation>
+      <annotation type="warning" message="File 'WebDriver.dll' is not supported by any installed test framework.  It will be ignored.">
+        <codeLocation path="D:\temp\20jn3bbl.mgi\output\WebDriver.dll" />
+        <codeReference />
+      </annotation>
+      <annotation type="warning" message="File 'WebDriver.Support.dll' is not supported by any installed test framework.  It will be ignored.">
+        <codeLocation path="D:\temp\20jn3bbl.mgi\output\WebDriver.Support.dll" />
+        <codeReference />
+      </annotation>
+      <annotation type="warning" message="File 'WebGrease.dll' is not supported by any installed test framework.  It will be ignored.">
+        <codeLocation path="D:\temp\20jn3bbl.mgi\output\WebGrease.dll" />
+        <codeReference />
+      </annotation>
+    </annotations>
+  </testModel>
+  <testPackageRun startTime="2017-02-12T21:23:35.2731486+00:00" endTime="2017-02-12T21:23:39.1949251+00:00">
+    <testStepRun startTime="2017-02-12T21:23:35.3825218+00:00" endTime="2017-02-12T21:23:39.1949251+00:00">
+      <testStep id="e46b4f2c8bb609de" name="Root" fullName="" testId="c2722843734a7a54" isPrimary="true" isTestCase="false" isDynamic="false">
+        <codeReference />
+        <codeLocation />
+        <metadata>
+          <entry key="TestKind">
+            <value>Root</value>
+          </entry>
+        </metadata>
+      </testStep>
+      <children>
+        <testStepRun startTime="2017-02-12T21:23:35.3825218+00:00" endTime="2017-02-12T21:23:35.3981467+00:00">
+          <testStep id="105a65f7e266b801" name="Antlr3.Runtime.dll" fullName="Antlr3.Runtime.dll" testId="f310079f7eda4376" isPrimary="true" isTestCase="true" isDynamic="false">
+            <codeReference />
+            <codeLocation />
+            <metadata>
+              <entry key="TestKind">
+                <value>Unsupported</value>
+              </entry>
+              <entry key="IgnoreReason">
+                <value>This test is not supported by any available test framework.</value>
+              </entry>
+              <entry key="File">
+                <value>D:\temp\20jn3bbl.mgi\output\Antlr3.Runtime.dll</value>
+              </entry>
+            </metadata>
+          </testStep>
+          <children />
+          <result assertCount="0" duration="0">
+            <outcome status="skipped" category="ignored" />
+          </result>
+          <testLog>
+            <streams>
+              <stream name="Warnings">
+                <body>
+                  <contents>
+                    <text><![CDATA[This test is not supported by any available test framework.]]></text>
+                  </contents>
+                </body>
+              </stream>
+            </streams>
+            <attachments />
+          </testLog>
+        </testStepRun>
+        <testStepRun startTime="2017-02-12T21:23:35.4137715+00:00" endTime="2017-02-12T21:23:35.4137715+00:00">
+          <testStep id="cb4e6fd843e07ad0" name="Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll" fullName="Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll" testId="31f5879070c58943" isPrimary="true" isTestCase="true" isDynamic="false">
+            <codeReference />
+            <codeLocation />
+            <metadata>
+              <entry key="TestKind">
+                <value>Unsupported</value>
+              </entry>
+              <entry key="IgnoreReason">
+                <value>This test is not supported by any available test framework.</value>
+              </entry>
+              <entry key="File">
+                <value>D:\temp\20jn3bbl.mgi\output\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</value>
+              </entry>
+            </metadata>
+          </testStep>
+          <children />
+          <result assertCount="0" duration="0">
+            <outcome status="skipped" category="ignored" />
+          </result>
+          <testLog>
+            <streams>
+              <stream name="Warnings">
+                <body>
+                  <contents>
+                    <text><![CDATA[This test is not supported by any available test framework.]]></text>
+                  </contents>
+                </body>
+              </stream>
+            </streams>
+            <attachments />
+          </testLog>
+        </testStepRun>
+        <testStepRun startTime="2017-02-12T21:23:35.4137715+00:00" endTime="2017-02-12T21:23:35.4137715+00:00">
+          <testStep id="74e9c282ae85c0b5" name="Microsoft.Web.Infrastructure.dll" fullName="Microsoft.Web.Infrastructure.dll" testId="6662385e098fece1" isPrimary="true" isTestCase="true" isDynamic="false">
+            <codeReference />
+            <codeLocation />
+            <metadata>
+              <entry key="TestKind">
+                <value>Unsupported</value>
+              </entry>
+              <entry key="IgnoreReason">
+                <value>This test is not supported by any available test framework.</value>
+              </entry>
+              <entry key="File">
+                <value>D:\temp\20jn3bbl.mgi\output\Microsoft.Web.Infrastructure.dll</value>
+              </entry>
+            </metadata>
+          </testStep>
+          <children />
+          <result assertCount="0" duration="0">
+            <outcome status="skipped" category="ignored" />
+          </result>
+          <testLog>
+            <streams>
+              <stream name="Warnings">
+                <body>
+                  <contents>
+                    <text><![CDATA[This test is not supported by any available test framework.]]></text>
+                  </contents>
+                </body>
+              </stream>
+            </streams>
+            <attachments />
+          </testLog>
+        </testStepRun>
+        <testStepRun startTime="2017-02-12T21:23:35.4137715+00:00" endTime="2017-02-12T21:23:35.4137715+00:00">
+          <testStep id="674a7df74288a549" name="Newtonsoft.Json.dll" fullName="Newtonsoft.Json.dll" testId="8a1ff2d9901beab8" isPrimary="true" isTestCase="true" isDynamic="false">
+            <codeReference />
+            <codeLocation />
+            <metadata>
+              <entry key="TestKind">
+                <value>Unsupported</value>
+              </entry>
+              <entry key="IgnoreReason">
+                <value>This test is not supported by any available test framework.</value>
+              </entry>
+              <entry key="File">
+                <value>D:\temp\20jn3bbl.mgi\output\Newtonsoft.Json.dll</value>
+              </entry>
+            </metadata>
+          </testStep>
+          <children />
+          <result assertCount="0" duration="0">
+            <outcome status="skipped" category="ignored" />
+          </result>
+          <testLog>
+            <streams>
+              <stream name="Warnings">
+                <body>
+                  <contents>
+                    <text><![CDATA[This test is not supported by any available test framework.]]></text>
+                  </contents>
+                </body>
+              </stream>
+            </streams>
+            <attachments />
+          </testLog>
+        </testStepRun>
+        <testStepRun startTime="2017-02-12T21:23:35.4137715+00:00" endTime="2017-02-12T21:23:35.4137715+00:00">
+          <testStep id="7043cdcaee38a04e" name="Restaurant.dll" fullName="Restaurant.dll" testId="f2f979c208fb05a4" isPrimary="true" isTestCase="true" isDynamic="false">
+            <codeReference />
+            <codeLocation />
+            <metadata>
+              <entry key="TestKind">
+                <value>Unsupported</value>
+              </entry>
+              <entry key="IgnoreReason">
+                <value>This test is not supported by any available test framework.</value>
+              </entry>
+              <entry key="File">
+                <value>D:\temp\20jn3bbl.mgi\output\Restaurant.dll</value>
+              </entry>
+            </metadata>
+          </testStep>
+          <children />
+          <result assertCount="0" duration="0">
+            <outcome status="skipped" category="ignored" />
+          </result>
+          <testLog>
+            <streams>
+              <stream name="Warnings">
+                <body>
+                  <contents>
+                    <text><![CDATA[This test is not supported by any available test framework.]]></text>
+                  </contents>
+                </body>
+              </stream>
+            </streams>
+            <attachments />
+          </testLog>
+        </testStepRun>
+        <testStepRun startTime="2017-02-12T21:23:35.4137715+00:00" endTime="2017-02-12T21:23:35.4137715+00:00">
+          <testStep id="46724eb3d200873d" name="RestaurantAutomation.dll" fullName="RestaurantAutomation.dll" testId="734d5bd7b4d0b326" isPrimary="true" isTestCase="true" isDynamic="false">
+            <codeReference />
+            <codeLocation />
+            <metadata>
+              <entry key="TestKind">
+                <value>Unsupported</value>
+              </entry>
+              <entry key="IgnoreReason">
+                <value>This test is not supported by any available test framework.</value>
+              </entry>
+              <entry key="File">
+                <value>D:\temp\20jn3bbl.mgi\output\RestaurantAutomation.dll</value>
+              </entry>
+            </metadata>
+          </testStep>
+          <children />
+          <result assertCount="0" duration="0">
+            <outcome status="skipped" category="ignored" />
+          </result>
+          <testLog>
+            <streams>
+              <stream name="Warnings">
+                <body>
+                  <contents>
+                    <text><![CDATA[This test is not supported by any available test framework.]]></text>
+                  </contents>
+                </body>
+              </stream>
+            </streams>
+            <attachments />
+          </testLog>
+        </testStepRun>
+        <testStepRun startTime="2017-02-12T21:23:35.4137715+00:00" endTime="2017-02-12T21:23:35.4137715+00:00">
+          <testStep id="c13c58ee5ef944b8" name="System.Web.Helpers.dll" fullName="System.Web.Helpers.dll" testId="1ce8e975ea21b66c" isPrimary="true" isTestCase="true" isDynamic="false">
+            <codeReference />
+            <codeLocation />
+            <metadata>
+              <entry key="TestKind">
+                <value>Unsupported</value>
+              </entry>
+              <entry key="IgnoreReason">
+                <value>This test is not supported by any available test framework.</value>
+              </entry>
+              <entry key="File">
+                <value>D:\temp\20jn3bbl.mgi\output\System.Web.Helpers.dll</value>
+              </entry>
+            </metadata>
+          </testStep>
+          <children />
+          <result assertCount="0" duration="0">
+            <outcome status="skipped" category="ignored" />
+          </result>
+          <testLog>
+            <streams>
+              <stream name="Warnings">
+                <body>
+                  <contents>
+                    <text><![CDATA[This test is not supported by any available test framework.]]></text>
+                  </contents>
+                </body>
+              </stream>
+            </streams>
+            <attachments />
+          </testLog>
+        </testStepRun>
+        <testStepRun startTime="2017-02-12T21:23:35.4137715+00:00" endTime="2017-02-12T21:23:35.4137715+00:00">
+          <testStep id="d6ed87d73cc3fa86" name="System.Web.Mvc.dll" fullName="System.Web.Mvc.dll" testId="4e8184417eecfec5" isPrimary="true" isTestCase="true" isDynamic="false">
+            <codeReference />
+            <codeLocation />
+            <metadata>
+              <entry key="TestKind">
+                <value>Unsupported</value>
+              </entry>
+              <entry key="IgnoreReason">
+                <value>This test is not supported by any available test framework.</value>
+              </entry>
+              <entry key="File">
+                <value>D:\temp\20jn3bbl.mgi\output\System.Web.Mvc.dll</value>
+              </entry>
+            </metadata>
+          </testStep>
+          <children />
+          <result assertCount="0" duration="0">
+            <outcome status="skipped" category="ignored" />
+          </result>
+          <testLog>
+            <streams>
+              <stream name="Warnings">
+                <body>
+                  <contents>
+                    <text><![CDATA[This test is not supported by any available test framework.]]></text>
+                  </contents>
+                </body>
+              </stream>
+            </streams>
+            <attachments />
+          </testLog>
+        </testStepRun>
+        <testStepRun startTime="2017-02-12T21:23:35.4137715+00:00" endTime="2017-02-12T21:23:35.4137715+00:00">
+          <testStep id="bdea292de1616b81" name="System.Web.Optimization.dll" fullName="System.Web.Optimization.dll" testId="78756b16a48f820" isPrimary="true" isTestCase="true" isDynamic="false">
+            <codeReference />
+            <codeLocation />
+            <metadata>
+              <entry key="TestKind">
+                <value>Unsupported</value>
+              </entry>
+              <entry key="IgnoreReason">
+                <value>This test is not supported by any available test framework.</value>
+              </entry>
+              <entry key="File">
+                <value>D:\temp\20jn3bbl.mgi\output\System.Web.Optimization.dll</value>
+              </entry>
+            </metadata>
+          </testStep>
+          <children />
+          <result assertCount="0" duration="0">
+            <outcome status="skipped" category="ignored" />
+          </result>
+          <testLog>
+            <streams>
+              <stream name="Warnings">
+                <body>
+                  <contents>
+                    <text><![CDATA[This test is not supported by any available test framework.]]></text>
+                  </contents>
+                </body>
+              </stream>
+            </streams>
+            <attachments />
+          </testLog>
+        </testStepRun>
+        <testStepRun startTime="2017-02-12T21:23:35.4137715+00:00" endTime="2017-02-12T21:23:35.4137715+00:00">
+          <testStep id="9b4c2f01577beb43" name="System.Web.Razor.dll" fullName="System.Web.Razor.dll" testId="fc4a40208c63dc13" isPrimary="true" isTestCase="true" isDynamic="false">
+            <codeReference />
+            <codeLocation />
+            <metadata>
+              <entry key="TestKind">
+                <value>Unsupported</value>
+              </entry>
+              <entry key="IgnoreReason">
+                <value>This test is not supported by any available test framework.</value>
+              </entry>
+              <entry key="File">
+                <value>D:\temp\20jn3bbl.mgi\output\System.Web.Razor.dll</value>
+              </entry>
+            </metadata>
+          </testStep>
+          <children />
+          <result assertCount="0" duration="0">
+            <outcome status="skipped" category="ignored" />
+          </result>
+          <testLog>
+            <streams>
+              <stream name="Warnings">
+                <body>
+                  <contents>
+                    <text><![CDATA[This test is not supported by any available test framework.]]></text>
+                  </contents>
+                </body>
+              </stream>
+            </streams>
+            <attachments />
+          </testLog>
+        </testStepRun>
+        <testStepRun startTime="2017-02-12T21:23:35.4137715+00:00" endTime="2017-02-12T21:23:35.4137715+00:00">
+          <testStep id="3560ae04ee1cdbf6" name="System.Web.WebPages.Deployment.dll" fullName="System.Web.WebPages.Deployment.dll" testId="a8e7fb77410f3fd8" isPrimary="true" isTestCase="true" isDynamic="false">
+            <codeReference />
+            <codeLocation />
+            <metadata>
+              <entry key="TestKind">
+                <value>Unsupported</value>
+              </entry>
+              <entry key="IgnoreReason">
+                <value>This test is not supported by any available test framework.</value>
+              </entry>
+              <entry key="File">
+                <value>D:\temp\20jn3bbl.mgi\output\System.Web.WebPages.Deployment.dll</value>
+              </entry>
+            </metadata>
+          </testStep>
+          <children />
+          <result assertCount="0" duration="0">
+            <outcome status="skipped" category="ignored" />
+          </result>
+          <testLog>
+            <streams>
+              <stream name="Warnings">
+                <body>
+                  <contents>
+                    <text><![CDATA[This test is not supported by any available test framework.]]></text>
+                  </contents>
+                </body>
+              </stream>
+            </streams>
+            <attachments />
+          </testLog>
+        </testStepRun>
+        <testStepRun startTime="2017-02-12T21:23:35.4137715+00:00" endTime="2017-02-12T21:23:35.4137715+00:00">
+          <testStep id="7ae589e913063b16" name="System.Web.WebPages.dll" fullName="System.Web.WebPages.dll" testId="9f1357b20eb57e97" isPrimary="true" isTestCase="true" isDynamic="false">
+            <codeReference />
+            <codeLocation />
+            <metadata>
+              <entry key="TestKind">
+                <value>Unsupported</value>
+              </entry>
+              <entry key="IgnoreReason">
+                <value>This test is not supported by any available test framework.</value>
+              </entry>
+              <entry key="File">
+                <value>D:\temp\20jn3bbl.mgi\output\System.Web.WebPages.dll</value>
+              </entry>
+            </metadata>
+          </testStep>
+          <children />
+          <result assertCount="0" duration="0">
+            <outcome status="skipped" category="ignored" />
+          </result>
+          <testLog>
+            <streams>
+              <stream name="Warnings">
+                <body>
+                  <contents>
+                    <text><![CDATA[This test is not supported by any available test framework.]]></text>
+                  </contents>
+                </body>
+              </stream>
+            </streams>
+            <attachments />
+          </testLog>
+        </testStepRun>
+        <testStepRun startTime="2017-02-12T21:23:35.4137715+00:00" endTime="2017-02-12T21:23:35.4137715+00:00">
+          <testStep id="3ec4e0efb3769151" name="System.Web.WebPages.Razor.dll" fullName="System.Web.WebPages.Razor.dll" testId="f5e70da6057cf397" isPrimary="true" isTestCase="true" isDynamic="false">
+            <codeReference />
+            <codeLocation />
+            <metadata>
+              <entry key="TestKind">
+                <value>Unsupported</value>
+              </entry>
+              <entry key="IgnoreReason">
+                <value>This test is not supported by any available test framework.</value>
+              </entry>
+              <entry key="File">
+                <value>D:\temp\20jn3bbl.mgi\output\System.Web.WebPages.Razor.dll</value>
+              </entry>
+            </metadata>
+          </testStep>
+          <children />
+          <result assertCount="0" duration="0">
+            <outcome status="skipped" category="ignored" />
+          </result>
+          <testLog>
+            <streams>
+              <stream name="Warnings">
+                <body>
+                  <contents>
+                    <text><![CDATA[This test is not supported by any available test framework.]]></text>
+                  </contents>
+                </body>
+              </stream>
+            </streams>
+            <attachments />
+          </testLog>
+        </testStepRun>
+        <testStepRun startTime="2017-02-12T21:23:35.4137715+00:00" endTime="2017-02-12T21:23:35.4137715+00:00">
+          <testStep id="5e0fc97e7798c53f" name="WebDriver.dll" fullName="WebDriver.dll" testId="3b30b197aa59053c" isPrimary="true" isTestCase="true" isDynamic="false">
+            <codeReference />
+            <codeLocation />
+            <metadata>
+              <entry key="TestKind">
+                <value>Unsupported</value>
+              </entry>
+              <entry key="IgnoreReason">
+                <value>This test is not supported by any available test framework.</value>
+              </entry>
+              <entry key="File">
+                <value>D:\temp\20jn3bbl.mgi\output\WebDriver.dll</value>
+              </entry>
+            </metadata>
+          </testStep>
+          <children />
+          <result assertCount="0" duration="0">
+            <outcome status="skipped" category="ignored" />
+          </result>
+          <testLog>
+            <streams>
+              <stream name="Warnings">
+                <body>
+                  <contents>
+                    <text><![CDATA[This test is not supported by any available test framework.]]></text>
+                  </contents>
+                </body>
+              </stream>
+            </streams>
+            <attachments />
+          </testLog>
+        </testStepRun>
+        <testStepRun startTime="2017-02-12T21:23:35.4137715+00:00" endTime="2017-02-12T21:23:35.4137715+00:00">
+          <testStep id="a10ecbbe9eaf4318" name="WebDriver.Support.dll" fullName="WebDriver.Support.dll" testId="89b4f7fbbbc1f1f9" isPrimary="true" isTestCase="true" isDynamic="false">
+            <codeReference />
+            <codeLocation />
+            <metadata>
+              <entry key="TestKind">
+                <value>Unsupported</value>
+              </entry>
+              <entry key="IgnoreReason">
+                <value>This test is not supported by any available test framework.</value>
+              </entry>
+              <entry key="File">
+                <value>D:\temp\20jn3bbl.mgi\output\WebDriver.Support.dll</value>
+              </entry>
+            </metadata>
+          </testStep>
+          <children />
+          <result assertCount="0" duration="0">
+            <outcome status="skipped" category="ignored" />
+          </result>
+          <testLog>
+            <streams>
+              <stream name="Warnings">
+                <body>
+                  <contents>
+                    <text><![CDATA[This test is not supported by any available test framework.]]></text>
+                  </contents>
+                </body>
+              </stream>
+            </streams>
+            <attachments />
+          </testLog>
+        </testStepRun>
+        <testStepRun startTime="2017-02-12T21:23:35.4137715+00:00" endTime="2017-02-12T21:23:35.4137715+00:00">
+          <testStep id="1623a1f1aa3e80bf" name="WebGrease.dll" fullName="WebGrease.dll" testId="25e7087aa2ac2484" isPrimary="true" isTestCase="true" isDynamic="false">
+            <codeReference />
+            <codeLocation />
+            <metadata>
+              <entry key="TestKind">
+                <value>Unsupported</value>
+              </entry>
+              <entry key="IgnoreReason">
+                <value>This test is not supported by any available test framework.</value>
+              </entry>
+              <entry key="File">
+                <value>D:\temp\20jn3bbl.mgi\output\WebGrease.dll</value>
+              </entry>
+            </metadata>
+          </testStep>
+          <children />
+          <result assertCount="0" duration="0">
+            <outcome status="skipped" category="ignored" />
+          </result>
+          <testLog>
+            <streams>
+              <stream name="Warnings">
+                <body>
+                  <contents>
+                    <text><![CDATA[This test is not supported by any available test framework.]]></text>
+                  </contents>
+                </body>
+              </stream>
+            </streams>
+            <attachments />
+          </testLog>
+        </testStepRun>
+        <testStepRun startTime="2017-02-12T21:23:36.6949906+00:00" endTime="2017-02-12T21:23:39.1480521+00:00">
+          <testStep id="54a321c3b02a7e4c" name="RestaurantTest" fullName="RestaurantTest" testId="b1afefcc3fae1575" isPrimary="true" isTestCase="false" isDynamic="false">
+            <codeReference assembly="RestaurantTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" />
+            <codeLocation path="D:\temp\20jn3bbl.mgi\output\RestaurantTest.DLL" />
+            <metadata>
+              <entry key="TestKind">
+                <value>Assembly</value>
+              </entry>
+              <entry key="CodeBase">
+                <value>D:\temp\20jn3bbl.mgi\output\RestaurantTest.DLL</value>
+              </entry>
+              <entry key="Copyright">
+                <value>Copyright ©  2017</value>
+              </entry>
+              <entry key="FileVersion">
+                <value>1.0.0.0</value>
+              </entry>
+              <entry key="Product">
+                <value>RestaurantTest</value>
+              </entry>
+              <entry key="Title">
+                <value>RestaurantTest</value>
+              </entry>
+              <entry key="Version">
+                <value>1.0.0.0</value>
+              </entry>
+              <entry key="Framework">
+                <value>MSTest v10.0.0.0</value>
+              </entry>
+              <entry key="File">
+                <value>D:\temp\20jn3bbl.mgi\output\RestaurantTest.DLL</value>
+              </entry>
+            </metadata>
+          </testStep>
+          <children>
+            <testStepRun startTime="2017-02-12T21:23:38.710551+00:00" endTime="2017-02-12T21:23:38.8511777+00:00">
+              <testStep id="fb58cbc67bada0e0" name="UnitTest1" fullName="RestaurantTest/UnitTest1" testId="b472a5bd0d1e84ef" isPrimary="true" isTestCase="false" isDynamic="false">
+                <codeReference assembly="RestaurantTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" namespace="RestaurantTest" type="RestaurantTest.UnitTest1" />
+                <codeLocation path="d:\temp\20jn3bbl.mgi\input\RestaurantTest\UnitTest1.cs" />
+                <metadata>
+                  <entry key="TestKind">
+                    <value>Fixture</value>
+                  </entry>
+                </metadata>
+              </testStep>
+              <children>
+                <testStepRun startTime="2017-02-12T21:23:38.7261755+00:00" endTime="2017-02-12T21:23:38.7574258+00:00">
+                  <testStep id="8292bf69a52b4c95" name="TestMethod1" fullName="RestaurantTest/UnitTest1/TestMethod1" testId="ea25b92cad9174cd" isPrimary="true" isTestCase="true" isDynamic="false">
+                    <codeReference assembly="RestaurantTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" namespace="RestaurantTest" type="RestaurantTest.UnitTest1" member="TestMethod1" />
+                    <codeLocation path="d:\temp\20jn3bbl.mgi\input\RestaurantTest\UnitTest1.cs" line="13" />
+                    <metadata>
+                      <entry key="TestKind">
+                        <value>Test</value>
+                      </entry>
+                    </metadata>
+                  </testStep>
+                  <children />
+                  <result assertCount="0" duration="0">
+                    <outcome status="failed" />
+                  </result>
+                  <testLog>
+                    <streams>
+                      <stream name="Failures">
+                        <body>
+                          <contents>
+                            <text><![CDATA[Test method RestaurantTest.UnitTest1.TestMethod1 threw exception: 
+OpenQA.Selenium.DriverServiceNotFoundException: The chromedriver.exe file does not exist in the current directory or in a directory on the PATH environment variable. The driver can be downloaded at http://chromedriver.storage.googleapis.com/index.html.
+    at OpenQA.Selenium.DriverService.FindDriverServiceExecutable(String executableName, Uri downloadUrl)
+   at OpenQA.Selenium.Chrome.ChromeDriverService.CreateDefaultService()
+   at OpenQA.Selenium.Chrome.ChromeDriver..ctor(ChromeOptions options)
+   at RestaurantAutomation.Class1.Go() in d:\temp\20jn3bbl.mgi\input\RestaurantAutomation\Class1.cs:line 15
+   at RestaurantTest.UnitTest1.TestMethod1() in d:\temp\20jn3bbl.mgi\input\RestaurantTest\UnitTest1.cs:line 14
+]]></text>
+                          </contents>
+                        </body>
+                      </stream>
+                    </streams>
+                    <attachments />
+                  </testLog>
+                </testStepRun>
+              </children>
+              <result assertCount="0" duration="0">
+                <outcome status="failed" />
+              </result>
+              <testLog>
+                <streams />
+                <attachments />
+              </testLog>
+            </testStepRun>
+          </children>
+          <result assertCount="0" duration="2.4547624">
+            <outcome status="failed" category="error" />
+          </result>
+          <testLog>
+            <streams>
+              <stream name="MSTest Output">
+                <body>
+                  <contents>
+                    <text><![CDATA[Loading D:\temp\20jn3bbl.mgi\temp\Gallio\MSTestAdapter\2iqn3esa.u3j\tests.runconfig...
+Loading D:\temp\20jn3bbl.mgi\temp\Gallio\MSTestAdapter\2iqn3esa.u3j\tests.vsmdi...
+
+Search path(s) for tests:
+D:\temp\20jn3bbl.mgi\output
+D:\temp\20jn3bbl.mgi\temp\Gallio\MSTestAdapter\2iqn3esa.u3j
+Search path(s) for default test settings:
+D:\temp\20jn3bbl.mgi\temp\Gallio\MSTestAdapter\2iqn3esa.u3j
+
+Starting execution...
+
+Results               Top Level Tests
+-------               ---------------
+Failed                (SelectedTests/)RestaurantTest.UnitTest1.TestMethod1
+0/1 test(s) Passed, 1 Failed
+
+Summary
+-------
+Test Run Failed.
+  Failed  1
+  ---------
+  Total   1
+Results file:  D:\temp\20jn3bbl.mgi\temp\Gallio\MSTestAdapter\2iqn3esa.u3j\tests.trx
+Test Settings: Gallio Test Run
+]]></text>
+                  </contents>
+                </body>
+              </stream>
+            </streams>
+            <attachments />
+          </testLog>
+        </testStepRun>
+      </children>
+      <result assertCount="0" duration="3.9089758">
+        <outcome status="failed" />
+      </result>
+      <testLog>
+        <streams />
+        <attachments />
+      </testLog>
+    </testStepRun>
+    <statistics assertCount="0" duration="3.917163" runCount="1" passedCount="0" failedCount="1" inconclusiveCount="0" skippedCount="16" testCount="17" stepCount="20">
+      <outcomeSummaries>
+        <outcomeSummary count="16">
+          <outcome status="skipped" category="ignored" />
+        </outcomeSummary>
+        <outcomeSummary count="1">
+          <outcome status="failed" />
+        </outcomeSummary>
+      </outcomeSummaries>
+    </statistics>
+  </testPackageRun>
+  <logEntries>
+    <logEntry severity="info" message="Host started at 2/12/2017 9:23:35 PM." />
+    <logEntry severity="info" message="Running under CLR v4.0.30319 runtime." />
+    <logEntry severity="debug" message="Disabled plugin 'Gallio.VisualStudio.Shell90': The plugin enable condition was not satisfied.  Please note that this is the intended behavior for plugins that must be hosted inside third party applications in order to work.  Enable condition: '${process:DEVENV.EXE_V9.0} or ${process:VSTESTHOST.EXE_V9.0} or ${process:MSTEST.EXE_V9.0} or ${framework:NET35}'." />
+    <logEntry severity="debug" message="Disabled plugin 'Gallio.VisualStudio.Tip90': The plugin depends on another disabled plugin: 'Gallio.VisualStudio.Shell90'." />
+    <logEntry severity="debug" message="Listening for connections on IPC port: 'IsolatedProcessHost.c66b2ee60bc7ea09'" />
+    <logEntry severity="info" message="Host stopped at 2/12/2017 9:23:39 PM." />
+    <logEntry severity="info" message="Host process exited with code: 0" />
+  </logEntries>
+</report>

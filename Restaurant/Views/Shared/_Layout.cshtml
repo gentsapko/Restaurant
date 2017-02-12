@@ -9,22 +9,13 @@
 
     <div class="container">
         <header>
-            <a href="@Url.Action("Index", "Home")" class="logo"><img src="/images/logo.png" alt="Blue Leopard logo"></a>
-            <nav class="main-navigation">
-                <ul>
-                    <li> @Html.ActionLink("Home", "Index", "Home") </li>
-                    <li> @Html.ActionLink("Menu", "Menu", "Home")</li>
-                    <li> @Html.ActionLink("Location & Hours", "Location", "Home")</li>
-                </ul>
-            </nav>
+           @Html.Partial("_Header")
         </header>
 
         @RenderBody()
 
         <footer>
-            <h4>Contact Us</h4>
-            <p>1.555.678.9876</p>
-            <p>contact@theblueleopa.rd</p>
+            @Html.Partial("_Footer")
         </footer>
     </div>
 

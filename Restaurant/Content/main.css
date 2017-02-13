@@ -152,11 +152,10 @@ a:active {
         -moz-transition: all 1s ease-out;
         -o-transition: all 1s ease-out;
         -webkit-transition: all 1s ease-out;
-        
     }
-    
+
         .gallery img:hover {
-             transform: scale(1.1);
+            transform: scale(1.1);
             -webkit-transform: scale(1.1);
             -moz-transform: scale(1.1);
             -o-transform: scale(1.1);
@@ -343,6 +342,7 @@ a:active {
 footer {
     padding: 10px 0;
     clear: both;
+    
 }
 
     footer h4 {
@@ -355,10 +355,10 @@ footer {
 
     footer img {
         float: right;
-        width: 35px;
-        margin-left: 15px;
+        width: 53px;
+        margin-left: 82px;
         position: relative;
-        bottom: 35px;
+        bottom: 54px;
     }
 
     footer .sociallink {

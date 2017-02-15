@@ -21,7 +21,7 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
-    background-size: 70% 100%;
+    background-size: 85% 100%;
     padding: 2% 6% 6% 6%;
 }
 
@@ -37,6 +37,7 @@ body {
     background: rgb(15,15,15); /* IE8 */
     background: rgba(15,15,15,0.74);
     padding: 30px;
+    overflow: hidden;
 }
 
 h1, h2, h3 {
@@ -357,4 +358,13 @@ footer {
         margin-right: 5%;
         width: 53px;
         margin-top: 25px;
+    }
+
+    .social {
+        float: right;
+        width: 200px;
+    }
+
+    .contact {
+        float: left;
     }

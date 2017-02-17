@@ -150,6 +150,7 @@ a:active {
 
     .gallery img {
         width: 300px;
+        border-radius: 25px;
         -moz-transition: all 1s ease-out;
         -o-transition: all 1s ease-out;
         -webkit-transition: all 1s ease-out;
@@ -160,6 +161,7 @@ a:active {
             -webkit-transform: scale(1.1);
             -moz-transform: scale(1.1);
             -o-transform: scale(1.1);
+            
         }
 
 
@@ -355,14 +357,14 @@ footer {
     }
 
     footer img {
-        margin-right: 5%;
+        margin: 5%;
         width: 53px;
-        margin-top: 25px;
+        border-radius: 15px;
     }
 
     .social {
         float: right;
-        width: 200px;
+        width: 300px;
     }
 
     .contact {
